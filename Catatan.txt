@@ -1,0 +1,15 @@
+
+Tugas membuat web belajar Bahasa Jawa
+
+ - Boostrap 4 
+ - No Template
+ - Responsive
+ - No PHP
+ - Konten belum diatur
+ - Source image https://unsplash.com/
+
+Author	  : Muhyiddin 
+Email 	  : muncikjr22@gmail.com
+Instagram : muhyiddin1902
+
+This content was uploaded to https://github.com
